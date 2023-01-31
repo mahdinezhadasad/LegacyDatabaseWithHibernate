@@ -197,6 +197,7 @@ public class Comment {
         this.commentType = commentType;
     }
     
+    
     public Long getCommentParent() {
         return commentParent;
     }
